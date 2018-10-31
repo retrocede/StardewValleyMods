@@ -1,0 +1,26 @@
+{
+  "Format": "1.3",
+  "ConfigSchema": {
+      "Color": {
+          "AllowValues": "blue, yellow, gray"
+      }
+  },
+  "Changes": [
+       {
+          "Action": "Load",
+          "Target": "Animals/cat",
+          "FromFile": "{{color}}Carby.png"
+       },
+       {
+           "Action": "EditImage",
+           "Target": "LooseSprites/Cursors",
+           "FromFile": "{{color}}CarbyIcon.png",
+           "ToArea": {
+               "X": 160,
+               "Y": 192,
+               "Width": 15,
+               "Height": 15
+           }
+       }
+    ]
+}
