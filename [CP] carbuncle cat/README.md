@@ -2,7 +2,7 @@
 This is a port of Vinchon's [Carbuncle Cat Replacement](https://www.nexusmods.com/stardewvalley/mods/303) to Content Patcher, posted with their consent.
 
 ## Installation
-* Download the .rar archive either from [github]() or [nexus mods]().
+* Download the .rar archive either from [github](https://github.com/retrocede/StardewValleyMods/releases/download/v0.1/CP.carbuncle.cat.rar) or [nexus mods]().
 * Extract, and copy the folder into your Mods directory.
 * This mod required SMAPI and Content Patcher
 
