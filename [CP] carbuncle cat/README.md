@@ -1,4 +1,8 @@
 # [ContentPatcher] Carbuncle Cat Replacement
+![Yellow Carbuncle](https://i.imgur.com/Hq4zog9.gif)
+![Blue Carbuncle](https://i.imgur.com/FKDcN1E.gif)
+![Gray Carbuncle](https://i.imgur.com/owt1rq7.gif)
+
 This is a port of Vinchon's [Carbuncle Cat Replacement](https://www.nexusmods.com/stardewvalley/mods/303) to Content Patcher, posted with their consent.
 
 ## Installation
